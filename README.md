@@ -1,10 +1,10 @@
-# clojure-project
+# Advent of Code 2022
 
-A Clojure library designed to ... well, that part is up to you.
+My solution for the 2022 Advent of Code
 
 ## Usage
 
-FIXME
+Use Leiningen Project
 
 ## License
 
@@ -20,5 +20,3 @@ Public License, v. 2.0 are satisfied: GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or (at your
 option) any later version, with the GNU Classpath Exception which is available
 at https://www.gnu.org/software/classpath/license.html.
-# aoc2022
-# aoc2022
