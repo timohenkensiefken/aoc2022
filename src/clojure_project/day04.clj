@@ -1,4 +1,4 @@
-(ns clojure-project.day03
+(ns clojure-project.day04
   (:use clojure-project.core))
 
 (defn int-subs [intervals]
