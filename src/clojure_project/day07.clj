@@ -43,4 +43,4 @@
 
 ((fn [[a b c]] c) [1 2])
 
-(process-input "resources/day07_test" func)
+(process-input "resources/day07" func)
